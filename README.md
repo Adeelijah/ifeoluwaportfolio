@@ -6,6 +6,6 @@ A warm, premium single-page portfolio for a Social Media Strategist & Content Cr
 
 Run `python -m http.server 8000` in this folder, then open http://localhost:8000.
 
-## Deployment
+## Netlify deployment
 
-Static HTML, CSS and JavaScript. For Netlify, use no build command and publish the repository root (`.`).
+No build command is required. Set the publish directory to `.` (repository root).
