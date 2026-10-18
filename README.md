@@ -4,7 +4,7 @@ A warm, premium single-page portfolio for a Social Media Strategist & Content Cr
 
 ## Local preview
 
-Run `python -m http.server 8000` in this folder, then open http://localhost:8000.
+Run `python -m http.server 8000` in the repository root, then open http://localhost:8000.
 
 ## Netlify deployment
 
